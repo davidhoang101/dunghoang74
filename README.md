@@ -10,9 +10,11 @@ Hoang Dung, passionate full stack web developer: PHP, Drupal, Node.js, React.js,
 
 <details><summary><em>My Principle</em></summary>
   
+  
   <em> Never Stop Learning!</em>
   
   <em> Get things done</em>
+  
 </details>
 
 <details><summary><em>What I'm doing?</em></summary>
