@@ -4,7 +4,7 @@
 #### Happy Coding!
 
 <details open><summary><em>Who Am I?</em></summary>
-Hoang Dung, passionate full stack web developer: PHP, Drupal, Node.js, React.js, CSS, Bootstrap, AWS, Google Cloud, Smart Contract, Solidity, Mysql, MongoDB,..
+David Hoang, passionate full stack web developer: PHP, Drupal, Node.js, React.js, CSS, Bootstrap, AWS, Google Cloud, Smart Contract, Solidity, Mysql, MongoDB,..
 </details>
 
 
