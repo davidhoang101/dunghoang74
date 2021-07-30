@@ -1,4 +1,4 @@
-### Full-stack Engineer 💡
+### Full-stack Engineer
 
 
 #### Happy Coding!
@@ -8,7 +8,7 @@ David Hoang, passionate full stack web developer: PHP, Drupal, Node.js, React.js
 </details>
 
 
- ### 🚀 Let's Connect!
+ ### Let's Connect!
 
 [<img align="left" alt="Connect on LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin-url]
  
