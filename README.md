@@ -2,7 +2,7 @@
 
 
 <details open><summary><em>Who Am I?</em></summary>
-David Hoang, passionate full stack web developer: PHP, Solidity, Defi, NFT, Drupal, Node.js, React.js, CSS, Bootstrap, AWS, Google Cloud, Mysql, MongoDB,..
+David Hoang, passionate full stack web developer: PHP, Solidity, Defi, NFT, Drupal, Node.js, React.js, Next.js, CSS, AWS, Google Cloud, Mysql, MongoDB,..
 </details>
 
 
