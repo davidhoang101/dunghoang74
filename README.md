@@ -1,4 +1,4 @@
-<details open><summary><em>Who Am I?</em></summary>
+<details open>
 Telegram: @davidhoang101
 </details>
 
